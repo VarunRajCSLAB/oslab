@@ -135,3 +135,4 @@ int main(int argc, char *argv[])
     rate_monotonic(observation_time);
 
     return 0;
+}

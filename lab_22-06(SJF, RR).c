@@ -1,3 +1,7 @@
+/*
+1.SJF(pre emptive &non-premptive)
+2. Priority
+3. Round Robin */
 #include <stdio.h>
 #include<stdlib.h>
 struct matrix

@@ -11,7 +11,7 @@ struct Process {
     int remaining_time;
     int turnaround_time;
     int waiting_time;
-};
+}; 
 
 void sjf_preemptive(struct Process processes[], int n) {
     int total_time = 0,i;

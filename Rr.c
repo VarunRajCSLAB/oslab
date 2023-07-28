@@ -47,4 +47,4 @@ void main(){
 
     printf("\n\nAverage Turn Around time is: %d\n", tot_tt/n);
     printf("Average Waiting Time is: %d\n", tot_wt/n);
-}
+} 

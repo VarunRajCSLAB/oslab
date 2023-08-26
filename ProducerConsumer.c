@@ -1,3 +1,4 @@
+/* lab program 5: Write a C program to simulate producer-consumer problem using semaphores.*/
 #include<stdio.h>
 #include<stdlib.h>
 

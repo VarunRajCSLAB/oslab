@@ -1,3 +1,5 @@
+/* lab program 2: Write a C program to simulate the following CPU scheduling algorithm to find turnaround time and waiting time.
+ Round Robin */
 #include<stdio.h>
 
 void main(){

@@ -1,3 +1,4 @@
+/* lab program 1b: */
 #include <stdio.h>
 #include <stdbool.h>
 

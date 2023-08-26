@@ -1,3 +1,4 @@
+/* lab program 4a: Rate- Monotonic*/
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>

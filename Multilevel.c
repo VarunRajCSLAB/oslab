@@ -1,3 +1,7 @@
+/* lab program 3: Write a C program to simulate multi-level queue scheduling algorithm considering the following scenario.
+All the processes in the system are divided into two categories – system processes and user processes. 
+System processes are to be given higher priority than user processes. 
+Use FCFS scheduling for the processes in each queue.*/
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_QUEUE_SIZE 100

@@ -1,3 +1,4 @@
+/* lab program 6: Write a C program to simulate the concept of Dining-Philosophers problem. */
 #include <pthread.h>
 #include <semaphore.h>
 #include <stdio.h>

@@ -1,4 +1,4 @@
-/*
+/* lab program 1b and 2a
 1.SJF(pre emptive &non-premptive)
 2. Priority */
 #include <stdio.h>

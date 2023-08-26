@@ -1,3 +1,6 @@
+/* lab program 1: Write a C program to simulate the following 
+non-pre-emptive CPU scheduling algorithm to find turnaround time and waiting time. 
+1a: FCFS */
 #include <stdio.h>
 
 typedef struct
